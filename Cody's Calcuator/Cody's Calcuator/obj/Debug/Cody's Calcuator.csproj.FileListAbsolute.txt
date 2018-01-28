@@ -1,0 +1,7 @@
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\obj\Debug\Cody's Calcuator.csprojResolveAssemblyReference.cache
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\obj\Debug\Cody's Calcuator.csproj.CoreCompileInputs.cache
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\bin\Debug\Cody's Calcuator.exe.config
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\bin\Debug\Cody's Calcuator.exe
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\bin\Debug\Cody's Calcuator.pdb
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\obj\Debug\Cody's Calcuator.exe
+c:\users\cwalton\source\repos\Cody's Calcuator\Cody's Calcuator\obj\Debug\Cody's Calcuator.pdb
